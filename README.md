@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CleverWild</h1>
+<h1 align="center">Hi there, I'm CleverWild</h1>
 <h3 align="center">A backend developer from Ukraine</h3>
 
 - 📫 How to reach me **https://t.me/CleverWild**
